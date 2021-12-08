@@ -1,0 +1,41 @@
+Planner Name or Controller Name,Controller Type,Zengarden,lighthouse,hacienda,snowtuxpeak,cornfield_crossing,scotland,cocoa_temple
+Brian and Robert's Controller,AI,31,36.1,49.4,42.1,58,49.4,100
+Brian and Robert's Planner,AI,30.5,36.6,50.9,46.6,56.9,50.1,66.5
+Brian and Robert's Controller,NO_AI,40.2,44.2,52.5,48.7,68.8,62.6,100
+Brian and Robert's Planner,NO_AI,36,48.1,54.8,57.4,70.8,66.5,81.5
+Justin's Controller,AI,32.8,36.3,50.2,42.4,62.5,49.3,100.0
+Justin's Controller NO AI,NO_AI,40.2,44.2,52.5,48.7,68.8,62.6,100.0
+Justin's Planner 1,AI,30.4,38.6,50.8,44.2,66.0,52.5,100.0
+Justin's Planner 1 NO_AI,NO_AI,48.0,49.9,74.8,71.5,73.9,84.8,100.0
+Justin's Planner 2,AI,34.2,37.4,49.1,43.5,60.4,51.8,96.2
+Justin's Planner 2 No AI,NO_AI,40.8,46.5,52.8,50.7,67.5,72.0,100.0
+Justin's Planner 3,AI,32.3,36.2,55.0,42.9,67.6,56.1,71.4
+Justin's Planner 3 No AI,NO_AI,44.0,47.5,64.5,57.5,77.3,86.7,100.0
+Justin's Planner 3 AI w/ Brian and Rob's controller,AI,32.5,39.4,48.5,41.6,61.5,51.0,62.8
+Justin's Planner 3 NO AI w/ Brian and Rob's controller,NO_AI,36.7,50.1,55.2,62.4,75.4,62.4,100.0
+Justin's Planner 2 AI w/ Brian and Rob's controller,AI,35.5,38.0,48.1,43.9,60.6,50.9,100.0
+Justin's Planner 2 NO AI w/ Brian and Rob's controller,NO_AI,40.6,50.1,55.0,57.7,67.2,62.0,100.0
+Justin's Planner 1 AI w/ Brian and Rob's controller,AI,32.3,36.8,48.7,43.9,59.1,52.6,63.9
+Justin's Planner 1 No AI w/ Brian and Rob's controller,NO_AI,42.0,47.3,70.0,60.7,79.2,62.2,100.0
+Brian and Robert's Planner with Justin's controller,AI,33.1,36.1,50.9,42.8,64.5,51.9,100.0
+Brian and Rob's planner with Justin's controller NO_AI,NO_AI,36.1,45.4,52.6,54.7,72.9,61.7,100.0
+Justin's Planner 1 with Marcel's controller AI,AI,31.9,39.6,49.4,44.4,61.2,48.9,61.8
+Justin's Planner 1 with Marcel's Controller NO AI,NO_AI,47.9,54.8,68.2,71.0,90.8,66.7,95.8
+Justin's Planner 2 with Marcel,AI,31.8,37.3,49.8,44.6,59.2,54.5,65.7
+Justin's Planner 2 with Marcel's controller NO AI,NO_AI,54.8,52.9,70.8,53.4,83.1,65.0,100.0
+Justin's Planner 3 with Marcel controller AI,AI,32.4,38.3,49.1,42.5,59.3,53.2,58.1
+Justin's Planner 3 with Marcel controller NO AI,NO_AI,49.1,49.7,62.3,54.3,71.4,68.4,100.0
+Bri and Rob's planner with Marcel's controller AI,AI,33.4,39.1,49.1,41.3,59.4,49.7,54.9
+Bri and Rob's planner with Marcel's controller NO AI,NO_AI,43.6,51.5,76.4,78.9,84.5,77.3,100.0
+Daniel's Planner 1 with Bri and Robert controller AI,AI,42.7,40.8,49.6,49.3,57.2,51.7,100.0
+Daniel's Planner 1 with Bri and Rob controller NO AI,NO_AI,44.7,50.5,58.9,75.3,79.4,62.0,91.6
+Daniel'S Planner 1 with Justin's controller AI,AI,31.7,37.6,66.2,42.9,64.2,54.0,92.2
+Daniel's Planner 1 with Justin's controller NO AI,NO_AI,44.1,53.2,71.3,75.4,71.5,70.2,100.0
+Daniel's Planner 1 with Marcel's controller AI,AI,34.3,35.3,49.0,44.2,59.3,54.8,55.4
+Daniel's Planner 1 with Marcel's controller No AI,NO_AI,44.6,51.1,73.8,74.0,90.1,86.0,100.0
+Daniel's Planner 2 with Bri and Rob's controller AI,AI,29.5,39.1,51.6,45.4,64.2,53.2,77.6
+Daniel's Planner 2 with Bri and Rob's controller NO AI,NO_AI,41.8,50.7,54.8,71.7,75.7,67.3,72.5
+Daniel's Planner 2 with Justin's controller AI,AI,34.3,37.2,58.8,75.4,68.1,64.0,100.0
+Daniel's Planner 2 with Justin's controller NO AI,NO_AI,51.7,50.0,65.1,79.6,89.5,75.7,72.4
+Daniel's Planner 2 with Marcel's Controller AI,AI,32.0,36.5,49.2,43.9,59.2,49.5,55.9
+Daniel's Planner 2 with Marcel's Controller No AI,NO_AI,45.0,58.1,79.2,97.8,82.9,87.3,76.9
