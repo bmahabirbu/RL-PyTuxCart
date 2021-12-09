@@ -12,3 +12,6 @@ As we stated in the paper, we got better results than our previous coding 5 assi
 
 # Acknowledgements
 We would like to thank all the faculty invovled in the process.
+
+# Link to the Github Wiki
+https://github.com/bmahabirbu/RL_Final_Project/wiki
