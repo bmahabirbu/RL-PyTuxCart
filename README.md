@@ -1,5 +1,7 @@
 # EC400 Group 6 RL Final Project
 
+![](https://github.com/bmahabirbu/RL_Final_Project/blob/main/Images%20%26%20Screenshots/images/coollogo_com-167833855.gif)
+
 This is the GitHub of Group 6 for their EC400 Final Project. After the report has been graded and all the grades are out, this repository will go private.
 
 # Contents
