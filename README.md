@@ -4,7 +4,7 @@ This is the GitHub of Group 6 for their EC400 Final Project. After the report ha
 
 # Contents
 
-This Repository includes all the planners, controllers, and additional code we modified or created in order to test our discoveries. There are 3 branches: the main, planner and utils. You can find all of our work however in the main branch. These folders in the main branch contain our planners, controllers, data we compiled, utils we modified, and Brian's Runtime_to_csv.py Python code for easier compiling of data. In addition, you can find some images that we got from testing. The drivez_data.zip is located in this link below:
+This Repository includes all the planners, controllers, and additional code we modified or created in order to test our discoveries. There are 3 branches: the main, planner and utils. You can find all of our work however in the main branch. These folders in the main branch contain our planners, controllers, data we compiled, utils we modified, and Brian's Runtime_to_csv.py Python code for easier compiling of data. In addition, you can find some images that we got from testing. The drive_data.zip we mainly used is located in this link below:
 
 https://drive.google.com/file/d/1FY3Ki0dDeyvT0rpeWNkrs4bs8ixbZINP/view?usp=sharing
 
